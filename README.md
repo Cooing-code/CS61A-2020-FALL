@@ -10,4 +10,6 @@ CS61A2020秋季课程在线资源整合
 
 课程大纲：[CS 61A：计算机程序的构造和解释](https://chillyhigh.github.io/CS61A-CN/)
 
+python代码逻辑可视化工具：[链接](https://pythontutor.com/cp/composingprograms.html#mode=edit)
+
 and more......
